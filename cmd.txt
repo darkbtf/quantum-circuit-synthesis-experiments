@@ -1,0 +1,180 @@
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_05CYC_TFL_0.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_05CYC_TFL_0.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_05CYC_TFL_1.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_05CYC_TFL_1.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_05CYC_TFL_2.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_05CYC_TFL_2.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_05CYC_TFL_3.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_05CYC_TFL_3.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_05CYC_TFL_4.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_05CYC_TFL_4.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_05CYC_TFL_5.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_05CYC_TFL_5.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_05CYC_TFL_6.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_05CYC_TFL_6.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_05CYC_TFL_7.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_05CYC_TFL_7.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_05CYC_TFL_8.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_05CYC_TFL_8.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_05CYC_TFL_9.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_05CYC_TFL_9.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_10CYC_TFL_0.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_10CYC_TFL_0.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_10CYC_TFL_1.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_10CYC_TFL_1.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_10CYC_TFL_2.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_10CYC_TFL_2.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_10CYC_TFL_3.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_10CYC_TFL_3.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_10CYC_TFL_4.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_10CYC_TFL_4.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_10CYC_TFL_5.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_10CYC_TFL_5.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_10CYC_TFL_6.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_10CYC_TFL_6.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_10CYC_TFL_7.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_10CYC_TFL_7.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_10CYC_TFL_8.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_10CYC_TFL_8.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_10CYC_TFL_9.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_10CYC_TFL_9.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_15CYC_TFL_0.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_15CYC_TFL_0.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_15CYC_TFL_1.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_15CYC_TFL_1.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_15CYC_TFL_2.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_15CYC_TFL_2.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_15CYC_TFL_3.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_15CYC_TFL_3.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_15CYC_TFL_4.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_15CYC_TFL_4.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_15CYC_TFL_5.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_15CYC_TFL_5.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_15CYC_TFL_6.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_15CYC_TFL_6.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_15CYC_TFL_7.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_15CYC_TFL_7.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_15CYC_TFL_8.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_15CYC_TFL_8.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_15CYC_TFL_9.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_15CYC_TFL_9.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_20CYC_TFL_0.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_20CYC_TFL_0.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_20CYC_TFL_1.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_20CYC_TFL_1.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_20CYC_TFL_2.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_20CYC_TFL_2.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_20CYC_TFL_3.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_20CYC_TFL_3.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_20CYC_TFL_4.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_20CYC_TFL_4.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_20CYC_TFL_5.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_20CYC_TFL_5.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_20CYC_TFL_6.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_20CYC_TFL_6.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_20CYC_TFL_7.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_20CYC_TFL_7.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_20CYC_TFL_8.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_20CYC_TFL_8.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_20CYC_TFL_9.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_20CYC_TFL_9.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_25CYC_TFL_0.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_25CYC_TFL_0.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_25CYC_TFL_1.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_25CYC_TFL_1.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_25CYC_TFL_2.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_25CYC_TFL_2.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_25CYC_TFL_3.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_25CYC_TFL_3.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_25CYC_TFL_4.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_25CYC_TFL_4.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_25CYC_TFL_5.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_25CYC_TFL_5.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_25CYC_TFL_6.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_25CYC_TFL_6.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_25CYC_TFL_7.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_25CYC_TFL_7.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_25CYC_TFL_8.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_25CYC_TFL_8.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_25CYC_TFL_9.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_25CYC_TFL_9.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_30CYC_TFL_0.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_30CYC_TFL_0.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_30CYC_TFL_1.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_30CYC_TFL_1.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_30CYC_TFL_2.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_30CYC_TFL_2.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_30CYC_TFL_3.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_30CYC_TFL_3.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_30CYC_TFL_4.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_30CYC_TFL_4.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_30CYC_TFL_5.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_30CYC_TFL_5.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_30CYC_TFL_6.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_30CYC_TFL_6.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_30CYC_TFL_7.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_30CYC_TFL_7.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_30CYC_TFL_8.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_30CYC_TFL_8.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_30CYC_TFL_9.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_30CYC_TFL_9.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_35CYC_TFL_0.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_35CYC_TFL_0.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_35CYC_TFL_1.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_35CYC_TFL_1.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_35CYC_TFL_2.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_35CYC_TFL_2.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_35CYC_TFL_3.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_35CYC_TFL_3.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_35CYC_TFL_4.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_35CYC_TFL_4.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_35CYC_TFL_5.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_35CYC_TFL_5.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_35CYC_TFL_6.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_35CYC_TFL_6.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_35CYC_TFL_7.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_35CYC_TFL_7.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_35CYC_TFL_8.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_35CYC_TFL_8.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_35CYC_TFL_9.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_35CYC_TFL_9.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_40CYC_TFL_0.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_40CYC_TFL_0.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_40CYC_TFL_1.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_40CYC_TFL_1.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_40CYC_TFL_2.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_40CYC_TFL_2.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_40CYC_TFL_3.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_40CYC_TFL_3.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_40CYC_TFL_4.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_40CYC_TFL_4.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_40CYC_TFL_5.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_40CYC_TFL_5.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_40CYC_TFL_6.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_40CYC_TFL_6.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_40CYC_TFL_7.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_40CYC_TFL_7.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_40CYC_TFL_8.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_40CYC_TFL_8.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_40CYC_TFL_9.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_40CYC_TFL_9.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_45CYC_TFL_0.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_45CYC_TFL_0.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_45CYC_TFL_1.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_45CYC_TFL_1.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_45CYC_TFL_2.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_45CYC_TFL_2.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_45CYC_TFL_3.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_45CYC_TFL_3.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_45CYC_TFL_4.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_45CYC_TFL_4.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_45CYC_TFL_5.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_45CYC_TFL_5.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_45CYC_TFL_6.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_45CYC_TFL_6.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_45CYC_TFL_7.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_45CYC_TFL_7.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_45CYC_TFL_8.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_45CYC_TFL_8.qasm
+
+enfield/build/tools/efd -i QUEKO-benchmark/BNTF/16QBT_45CYC_TFL_9.qasm  -alloc wpm -arch ibmqx3 --rev-cost 8 --swap-cost 20 --lcx-cost 22 -stats -o QUEKO_results/16QBT_45CYC_TFL_9.qasm
+
